@@ -62,26 +62,33 @@ The neural network model using Tensorflow Keras contains working code that perfo
 The model is optimized, with combinations of the following
 
 •	Added additonal neurons
-•	Added hidden layers  
+•	Added hidden layers 
+•	Longer run-time(epoch)
 •	The results are saved to an HDF5 file 
 
 #### Optimization First Attempt
 
-Optimization by adding neurons at layer 2 from 30 to 80. From Accuracy 53% to 69%
+Optimization made by adding neurons at layer 2 from 30 to 80. From Accuracy 53% to 69%
 
 ![deliv3%20-%201st.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv3%20-%201st.png)
 
 
 #### Optimization Second Attempt
 
+Optimization made by adding third layer and modifying neurons on 2nd layer. Added also run-time from 100 to 300. Achieved 70% accuracy
+
 ![deliv3-2nd.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv3-2nd.png)
 
 
 ### Optimization Third Attempt
 
+Optimization made, added neurons with 3 layers and 500 epoch. Only 54% accuracy
 
-![]()
+![hdeliv3-3rd.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv3-3rd.png)
 
 
 
 ## Summary 
+
+After several attempts with combinations of adding neurons, adding layers and longer run-time(epochs), it did not achieve the target accuracy of 75% or more. Possible other supervised learning like Random Forest or SVM to use as model.
+
