@@ -2,7 +2,7 @@
 
 ## Overview
 
-AlphabetSoup is a non-profit philanthropic foundation dedicated to helping organizations that protect the environment, improve people’s well-being, and unify the world. The foundation already raised and donated over 10 billion dollars in the past 20 years. To help ensure that the money that is being donated is being used effectively, the company data analytics group was tasked to predict which organizations are worth donating to and which are too high risk.  
+AlphabetSoup is a non-profit philanthropic foundation dedicated to helping organizations that protect the environment, improve people’s well-being, and unify the world. The foundation already raised and donated over 10 billion dollars in the past 20 years. To help ensure that the money that is being donated is being used effectively, the company's  data analytics group was tasked to predict which organizations are worth donating to and which are too high risk.  
 
 In this project developed and trained a deep learning neural network model to produce a clear decision-making result.
 
