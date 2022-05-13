@@ -59,23 +59,22 @@ The neural network model using Tensorflow Keras contains working code that perfo
 
 ### Deliverable 3: Optimize the Model
 
-The model is optimized, and the predictive accuracy is increased to over 75%, or there is working code that makes three attempts to increase model performance using the following steps:
+The model is optimized, with combinations of the following
 
-•	Noisy variables are removed from features
-•	Additional neurons are added to hidden layers 
-•	Additional hidden layers are added 
-•	The activation function of hidden layers or output layers is changed for optimization 
-•	The model's weights are saved every 5 epochs 
+•	Added additonal neurons
+•	Added hidden layers  
 •	The results are saved to an HDF5 file 
 
 #### Optimization First Attempt
 
-![]()
+Optimization by adding neurons at layer 2 from 30 to 80. From Accuracy 53% to 69%
+
+![deliv3%20-%201st.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv3%20-%201st.png)
 
 
 #### Optimization Second Attempt
 
-![]()
+![deliv3-2nd.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv3-2nd.png)
 
 
 ### Optimization Third Attempt
