@@ -38,6 +38,8 @@ The following preprocessing steps have been performed:
 ![deliv1-5.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv1-5.png)
 
 
+![deliv1-merged_df.png](https://github.com/OPahunang/Neural_Network_Charity_Analysis/blob/main/Resources/deliv1-merged_df.png)
+
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model
 
