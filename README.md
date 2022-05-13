@@ -92,5 +92,5 @@ Optimization made, added neurons with 3 layers and 500 epoch. Only 54% accuracy
 
 ## Summary 
 
-After several attempts with combinations of adding neurons, adding layers and longer run-time(epochs), it did not achieve the target accuracy of 75% or more. Possible other supervised learning like Random Forest or SVM to use as model.
+After several attempts with combinations of adding neurons, adding layers and longer run-time(epoch), did not achieve the target accuracy of 75% or more. Possible other supervised learning like Random Forest or SVM to use as model to achieve to desired accuracy result.
 
